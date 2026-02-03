@@ -1,0 +1,99 @@
+Year,Organization,Project,Type,Priority,Funding_Request,Funding_Award,Total_Score,Score_Impact,Score_Principles,Score_Capacity,Score_Collab,App_Type,Priority_Category
+2022,Port Resources,Group Residence New Radiant Base Board Heating System ,CON,HA,32000.0,32000.0,85.44,29.0,27.75,20.06,8.63,Construction/Development,HA
+2022,Habitat for Humanity of Greater Portland,Critical Home Repair Program ,CON,HA,15000.0,15000.0,85.01,29.67,28.67,24.5,3.67,Construction/Development,HA
+2022,COP Department of Public Works,East Oxford St Landscape and Accessibility Improvement Project,CON,NI,340000.0,340000.0,83.58,26.17,25.11,22.11,12.44,Construction/Development,NI
+2022,Catherine Morrill Day Nursery,Electrical Improvement Plan ,CON,EO,67687.0,67687.0,79.9,24.06,27.06,21.78,7.0,Construction/Development,EO
+2022,Maine Irish Heritage Center,Bell Tower Restoration ,CON,NI,20000.0,20000.0,64.86,15.56,17.83,22.0,9.72,Construction/Development,NI
+2022,Trustees of First Parish Church,Window Restoration ,CON,NI,78185.0,78185.0,64.78,16.39,17.61,20.17,10.61,Construction/Development,NI
+2022,COP Department of Public Works,Sagamore Village Pedestrian and Green Infrastructure Project,CON,NI,72000.0,72000.0,,,,,,Construction/Development,NI
+2022,COP Parks Recreation and Facilities Department,Valley St. Park Improvements,CON,NI,195000.0,195000.0,,,,,,Construction/Development,NI
+2022,Police Department,Community Policing (set aside),SS,NI,150000.0,142350.0,69.56,22.5,22.67,20.67,4.22,Social Services,NI
+2022,Through These Doors,Community Based Domestic Violence Services for Bayside Neighborhood (new program set aside),SS,ANGHP,91798.0,87116.0,91.72,29.28,28.33,22.33,11.78,Social Services,ANGHP
+2022,Children's Museum & Theatre of Maine,Museum & Theatre After School Clubhouse (new program set aside),SS,EO,97469.0,0.0,81.3,26.0,24.11,20.61,10.58,Social Services,EO
+2022,Wayside Food Program,Direct Service Program ,SS,ANGHP,34000.0,32266.0,96.45,29.56,27.89,24.0,15.0,Social Services,ANGHP
+2022,Furniture Friends,Basic Needs Expansion ,SS,ANGHP,25000.0,23725.0,95.28,28.17,28.0,24.11,15.0,Social Services,ANGHP
+2022,Preble Street,Joe Kreisler Teen Shelter,SS,ANGHP,30000.0,28470.0,94.56,28.78,27.89,23.5,14.39,Social Services,ANGHP
+2022,Hope Acts,Support for Homeless and Low Income Asylum Seekers,SS,ANGHP,90000.0,85410.0,94.47,29.11,27.33,23.14,14.89,Social Services,ANGHP
+2022,Milestone Recovery,HOME Team ,SS,ANGHP,120000.0,113880.0,94.21,28.64,28.33,23.27,13.97,Social Services,ANGHP
+2022,Greater Portland Family Promise,Homelessness Prevention & Housing Services,SS,ANGHP,45000.0,42705.0,94.14,29.06,28.06,22.19,14.83,Social Services,ANGHP
+2022,Preble Street,Florence House Women's Shelter,SS,ANGHP,32000.0,30368.0,93.75,28.22,28.5,23.5,14.03,Social Services,ANGHP
+2022,Preble Street,Emergency Food Program ,SS,ANGHP,71000.0,71000.0,93.16,29.11,28.33,23.44,12.28,Social Services,ANGHP
+2022,Amistad,Mobile Day Space Housing Project ,SS,ANGHP,150000.0,150000.0,92.67,28.64,27.89,22.31,13.83,Social Services,ANGHP
+2022,Catherine Morrill Day Nursery,Portland CDBG Childcare Voucher Collaborative,SS,EO,80808.0,79287.0,92.47,28.72,27.44,23.64,12.67,Social Services,EO
+2022,Catholic Charities,Immigrant Legal Services,SS,EO,127581.0,,91.74,27.33,27.33,23.14,13.94,Social Services,EO
+2022,COP Public Health Division,Mobile Medical Outreach ,SS,ANGHP,100000.0,,86.44,27.81,27.25,21.63,12.75,Social Services,ANGHP
+2022,Mayo Street Arts,After School in East Bayside,SS,NI,50000.0,,83.97,24.72,27.11,22.08,13.56,Social Services,NI
+2022,The Opportunity Alliance,Community Services/Homeless Prevention Program ,SS,ANGHP,75000.0,,79.23,25.39,26.78,22.5,3.56,Social Services,ANGHP
+2023,Preble Street,Food Security Hub,Con,NI,250000.0,250000.0,90.18,26.18,27.75,23.0,13.25,Construction/Development,NI
+2023,"City of Portland, Public Works Dept.",Sagamore Village Sidewalk Improvement Project – Phase II,Con,NI,199000.0,199000.0,85.91,23.66,26.5,23.5,12.25,Construction/Development,NI
+2023,Alpha One,Critical Access Ramp Program,Con,HA,42000.0,42000.0,83.98,26.68,25.75,19.67,11.88,Construction/Development,HA
+2023,"City of Portland, Parks And Recreation","Bayside Street Tree Planting Surge, Phase 2",Con,NI,185191.0,185191.0,81.25,22.67,25.58,20.92,12.08,Construction/Development,NI
+2023,"City of Portland, Public Works Dept.",Woodford Street between Forest Ave And Beacon Street. ,Con,NI,199000.0,199000.0,80.07,22.28,24.33,21.33,12.13,Construction/Development,NI
+2023,Coastal Enterprise Inc.,Portland Microenterprise Assistance Program ,DEV,EO,50000.0,,78.48,25.01,23.22,19.75,10.5,Construction/Development,EO
+2023,Hope Acts,Waterproofing Hope House,Con,NI,35000.0,35000.0,78.3,22.67,25.58,18.42,11.63,Construction/Development,NI
+2023,Port Resources,Emery Street Group Boiler Replacement and Kitchen Renovation ,Con,HA,50000.0,,73.5,24.33,23.17,17.75,8.25,Construction/Development,HA
+2023,Trustees of the First Parish Church,Historic Window Restoration for Increased Energy and Efficiency and Community Use,Con,NI,88000.0,,69.72,16.49,20.33,21.5,11.4,Construction/Development,NI
+2023,Police Department,Community Policing,SS,NI,150000.0,0.0,87.63,26.42,24.75,21.96,14.5,Social Services,NI
+2023,Quality Housing Coalition,Project HOME Mothers Trust,SS,EO*,90165.0,57165.0,81.5,27.0,25.47,19.13,9.9,Social Services,EO
+2023,Wayside Food Program,Direct Service Program,SS,ANGHP,32250.0,32250.0,92.71,29.67,26.37,22.17,14.5,Social Services,ANGHP
+2023,Through These Doors,Community Based Domestic Violence Services for Bayside Neighborhood,SS,ANGHP,94432.0,94432.0,92.67,28.67,27.33,22.17,14.5,Social Services,ANGHP
+2023,Hope Acts,Support for Homeless and Low Income Asylum Seekers,SS,ANGHP,125000.0,125000.0,92.25,28.42,28.5,21.33,14.0,Social Services,ANGHP
+2023,Greater Portland Family Promise,Homelessness Prevention & Housing Services,SS,ANGHP,61500.0,61500.0,91.95,29.17,27.95,20.33,14.5,Social Services,ANGHP
+2023,Milestone Recovery,HOME Team,SS,ANGHP,120000.0,120000.0,91.88,28.33,26.68,22.87,14.0,Social Services,ANGHP
+2023,Preble Street,Emergency Food Program,SS,ANGHP,50000.0,50000.0,91.41,28.83,27.0,21.58,14.0,Social Services,ANGHP
+2023,Amistad,HSC Peer Recovery Services,SS,ANGHP,70000.0,,90.42,28.67,27.17,20.58,14.0,Social Services,ANGHP
+2023,Preble Street,Preble Street Adult Wellness Shelters,SS,ANGHP,75000.0,,89.67,29.17,25.33,21.67,13.5,Social Services,ANGHP
+2023,Catholic Charities,Immigrant Legal Services,SS,EO,120413.0,120413.0,89.12,28.33,27.0,20.54,13.25,Social Services,EO
+2023,Catherine Morrill Day Nursery,Portland CDBG Childcare Voucher Collaborative,SS,EO,81295.0,81295.0,89.09,28.67,26.0,22.17,12.25,Social Services,EO
+2023,Preble Street,Joe Kreisler Teen Shelter,SS,ANGHP,30000.0,,88.97,28.17,26.75,21.42,12.63,Social Services,ANGHP
+2023,Furniture Friends,Basic Needs Expansion,SS,ANGHP,35000.0,,85.58,24.67,25.33,21.08,14.5,Social Services,ANGHP
+2024,City of Portland Department of Public Works,Nason’s Corner ADA,Cons.,NI,199000.0,197999.00001167122,89.75,28.125,26.5,22.125,13.0,Construction/Development,NI
+2024,City of Portland Department of Public Works,Oakdale Neighborhood ADA ,Cons.,NI,199000.0,197999.00001167122,88.25,28.375,23.875,21.75,14.25,Construction/Development,NI
+2024,"City of Portland Department of Parks, Recreation, and Facilities",Reiche Playground ,Cons.,NI,193400.0,192425.99729777494,85.25,25.125,23.5,22.0,14.625,Construction/Development,NI
+2024,"City of Portland Department of Parks, Recreation, and Facilities",Deering Oaks Park ADA,Cons.,NI,192792.0,174457.7711587559,84.875,27.0,23.25,22.125,12.5,Construction/Development,NI
+2024,City of Portland Department of Public Works, Congress Street ADA ,Cons.,NI,199000.0,90000.0,84.0,27.125,23.875,21.5,11.5,Construction/Development,NI
+2024,"City of Portland Department of Parks, Recreation and Facilities",Age-in-Place Court/Tyng-Tate Playground,Cons.,NI,152500.0,0.0,82.875,25.375,21.5,21.875,14.125,Construction/Development,NI
+2024,"MicroRail, Inc.dba Hope Harbor",Hope Harbor,Cons.,Housing ,250000.0,0.0,51.75,27.375,16.75,7.625,0.0,Construction/Development,HA
+2024,Our Place Portland Inc.,Youth Mentorship Groups and Community Summer Camps,SS,NI,53075.0,52800.99657383156,80.25,22.875,27.125,21.0,9.25,Social Services,NI
+2024,Maine Academy of Modern Music,Amplify Music Education ,SS,NI,15000.0,0.0,72.75,17.875,21.0,22.125,11.75,Social Services,NI
+2024,Wayside Food Programs,Direct Services Program,SS,ANGHP,32250.0,26445.9980899136,93.71428571428571,29.0,27.142857142857142,22.571428571428573,15.0,Social Services,ANGHP
+2024,Quality Housing Coalition,Project HOME,SS,ANGHP,149600.0,132246.02740460008,92.14285714285714,28.571428571428573,28.571428571428573,22.0,13.0,Social Services,ANGHP
+2024,Milestone Recovery,Homeless Outreach and Mobile Engagement (HOME) Team,SS,ANGHP,120000.0,107772.9988607234,92.125,29.625,27.5,22.875,12.125,Social Services,ANGHP
+2024,Greater Portland Family Promise,Homelessness Prevention and Housing Stabilization ,SS,ANGHP,93600.0,81509.00481363619,92.125,29.375,26.875,22.125,13.75,Social Services,ANGHP
+2024,Preble Street,Preble Street Emergency Food Programs,SS,ANGHP,50000.0,43109.00457812233,91.57142857142857,29.571428571428573,27.714285714285715,22.428571428571427,11.857142857142858,Social Services,ANGHP
+2024,Preble Street,Joe Kreisler Teen Shelter,SS,ANGHP,30000.0,25201.999546017425,91.5,29.375,28.875,22.125,11.125,Social Services,ANGHP
+2024,Hope Acts,Asylum Seeker Assistance Program,SS,ANGHP,125000.0,87524.00286981958,91.125,27.25,26.75,22.75,14.375,Social Services,ANGHP
+2024,Catholic Charities Maine,Immigration Legal Services (ILS) Program,SS,EO,126238.0,0.0,91.0,27.625,28.0,22.75,12.625,Social Services,EO
+2024,Commonspace (formerly Amistad),HSC Housing Navigation Program,SS,ANGHP,100000.0,0.0,90.875,29.375,27.0,21.875,12.625,Social Services,ANGHP
+2024,"Community Housing of Maine, Inc.",Ashlea's Place,SS,ANGHP,44521.0,20000.0,90.75,29.625,28.25,21.0,11.875,Social Services,ANGHP
+2024,Preble Street,Preble Street Adult Wellness Shelters ,SS,ANGHP,75000.0,0.0,90.75,29.375,27.875,22.375,11.125,Social Services,ANGHP
+2024,Through These Doors,Community Based Domestic Violence Services,SS,ANGHP,97070.8,56706.99726333578,90.125,28.875,26.125,22.625,12.5,Social Services,ANGHP
+2024,Catherine Morrill Day Nursery,Portland CDBG Childcare Voucher Collaborative ,SS,EO,81295.0,0.0,88.375,28.5,26.5,22.875,10.5,Social Services,EO
+2024,Furniture Friends,Basic Needs Expansion,SS,ANGHP,50000.0,0.0,85.0,24.25,24.0,22.0,14.75,Social Services,ANGHP
+2025,"City of Portland Department of Parks, Recreation, and Facilities",Tyng Tate Playground and Age Inclusive Courts,Cons.,NI,248000.0,248000.0,90.42857360839844,,,,,Construction/Development,NI
+2025,City of Portland Department of Public Works,Cumberland Ave Sidewalk Improvement,Cons.,NI,200000.0,200000.0,82.42857360839844,,,,,Construction/Development,NI
+2025,Youth and Family Outreach,Resource Hub ,Cons.,EO,250000.0,250000.0,81.57142639160156,,,,,Construction/Development,EO
+2025,City of Portland Department of Public Works,Tate Street Sidewalk Improvement,Cons.,NI,175000.0,175000.0,81.42857360839844,,,,,Construction/Development,NI
+2025,Alpha One,Critical Access Ramp Program,Cons.,NI,50000.0,0.0,71.0,,,,,Construction/Development,NI
+2025,Catherine Morrill Day Nursery,Playground Ramp Replacement,Cons.,EO,155000.0,0.0,66.28571319580078,,,,,Construction/Development,EO
+2025,Port Resources,Group Home Repaving Projects,Cons.,NI,30000.0,0.0,65.42857360839844,,,,,Construction/Development,NI
+2025,Quality Housing Coalition,Housing for Systems-Involved Youth and Families,SS,ANGHP,150000.0,121693.0,93.0,,,,,Social Services,ANGHP
+2025,Wayside Services Program,Direct Services Program,SS,ANGHP,40000.0,32452.0,91.14286041259766,,,,,Social Services,ANGHP
+2025,Hope Acts,Asylum Seeker Assistance,SS,ANGHP,150000.0,121693.0,91.0,,,,,Social Services,ANGHP
+2025,Portland Fire Department,Mobile Medical Outreach,SS,ANGHP,50000.0,0.0,90.0,,,,,Social Services,ANGHP
+2025,Greater Portland Family Promise,Homeless Prevention and Housing Stabilization,SS,ANGHP,131419.0,81659.0,88.71428680419922,,,,,Social Services,ANGHP
+2025,Milestone Recovery,HOME Team,SS,ANGHP,107000.0,41375.0,88.85713958740234,,,,,Social Services,ANGHP
+2025,Preble Street,Joe Kreisler Teen Shelter,SS,ANGHP,35000.0,13792.0,88.57142639160156,,,,,Social Services,ANGHP
+2025,Preble Street,Emergency Food Programs,SS,ANGHP,55000.0,0.0,88.28571319580078,,,,,Social Services,ANGHP
+2025,Through These Doors,Community Based Domestic Violence Services,SS,ANGHP,59968.0,48650.0,88.28571319580078,,,,,Social Services,ANGHP
+2025,Spurwink,Ashlea's Place,SS,ANGHP,144419.0,0.0,87.14286041259766,,,,,Social Services,ANGHP
+2025,Catholic Charities Maine,Immigrant Legal Services,SS,EO,135072.0,0.0,86.66666412353516,,,,,Social Services,EO
+2025,Commonspace,Brackett Street Housing,SS,ANGHP,68000.0,0.0,84.71428680419922,,,,,Social Services,ANGHP
+2025,Maine Needs,Maine Needs,SS,ANGHP,119641.5,97063.0,84.66666412353516,,,,,Social Services,ANGHP
+2025,MaineHealth,MaineHealth Food Pantry,SS,ANGHP,68105.0,18677.0,84.28571319580078,,,,,Social Services,ANGHP
+2025,Youth and Family Outreach,Relocation for Expansion,SS,EO,60000.0,0.0,83.71428680419922,,,,,Social Services,EO
+2025,Presente! Maine,Emergency Services & Food Assistance,SS,ANGHP,142632.2,115714.38,82.28571319580078,,,,,Social Services,ANGHP
+2025,Portland Health and Human Services Department,Immediate Nutritional Support,SS,ANGHP,56566.0,0.0,81.28571319580078,,,,,Social Services,ANGHP
+2025,Boys and Girls Clubs of Southern Maine,Boys and Girls Club Transportation Program,SS,EO,149947.35,0.0,80.57142639160156,,,,,Social Services,EO
+2025,Our Place,Youth Mentorship Program and Family Advocacy Services,SS,NI,57993.6,0.0,76.28571319580078,,,,,Social Services,NI
+2025,Maine Academy of Modern Music, Extracurricular Youth Development through Music,SS,NI,45000.0,0.0,71.1428604125976,,,,,Social Services,NI
