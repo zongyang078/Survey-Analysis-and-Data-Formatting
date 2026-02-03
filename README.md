@@ -6,7 +6,7 @@
 
 A comprehensive data analysis project examining Community Development Block Grant (CDBG) applications from the City of Portland over a 10-year period (2016-2026). This project processes, analyzes, and visualizes grant application trends to inform policy decisions and improve the grant selection process.
 
-## 📋 Project Overview
+## Project Overview
 
 This analysis was conducted for Portland's Housing and Economic Development Department to identify trends and patterns in CDBG applications. The project addresses key questions about:
 
@@ -16,7 +16,7 @@ This analysis was conducted for Portland's Housing and Economic Development Depa
 - Funding request analysis with scoring breakdowns
 - Priority category distribution (Homeless, Economic Opportunity, Infrastructure, Housing)
 
-## 🎯 Key Features
+## Key Features
 
 - **Intelligent Data Cleaning**: Automatically handles multiple Excel formats across different years
 - **Scoring Breakdown Analysis**: Extracts and analyzes 4 scoring components (Impact, Principles, Capacity, Collaboration)
@@ -24,7 +24,7 @@ This analysis was conducted for Portland's Housing and Economic Development Depa
 - **Professional Visualizations**: Generates 5 comprehensive charts following best practices
 - **Missing Data Handling**: Preserves data integrity with transparent NaN handling
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Survey-Analysis-and-Data-Formatting/
@@ -47,7 +47,7 @@ Survey-Analysis-and-Data-Formatting/
 └── README.md
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
