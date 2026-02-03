@@ -29,8 +29,11 @@ This analysis was conducted for Portland's Housing and Economic Development Depa
 ```
 Survey-Analysis-and-Data-Formatting/
 ├── data/
-│   ├── 2022-2026_Case_Data.xlsx          # Primary dataset
-│   └── 2016-2022_Case_Data.xlsx          # Historical data (stretch goal)
+│   ├── 2022-2026 Case Data.xlsx          # Primary dataset
+│   └── 2016-2022 Case Data.xlsx          # Historical data (stretch goal)
+├── output/
+│   ├── cleaned_data_2022_2026.csv          # Cleaned dataset (primary)
+│   └── cleaned_data_2016_2022.csv          # Cleaned data (stretch goal)
 ├── figures/
 │   ├── 1_applications_per_year.png       # Application trends
 │   ├── 2_score_spread.png                # Score distributions
@@ -71,11 +74,11 @@ python hw3_stretch_goal_viz.py
 
 ### Output
 
-- **Cleaned Data**: `output/cleaned_data.csv` (98 records)
-- **Figures**: `output/figures/` (5 PNG files, 300 DPI)
-- **Stretch Goal**: `output/` (2 additional PNG files)
+- **Cleaned Data**: `output/cleaned_data_2022_2026.csv` (98 records)
+- **Figures**: `figures/` (5 PNG files, 300 DPI)
+- **Stretch Goal**: `figures_stretch_goal/` (2 additional PNG files)
 
-## 📊 Data Overview
+## Data Overview
 
 ### 2022-2026 Dataset (Primary)
 ```
@@ -94,7 +97,7 @@ Priority Distribution:
 - **Scoring Breakdown**: 70% complete (4 components × 98 records)
 - **Funding Awards**: 87% complete
 
-## 🔍 Analysis Components
+## Analysis Components
 
 ### 1. Application Trends
 - Year-over-year application volume
@@ -127,18 +130,7 @@ Priority Distribution:
 - NI: Neighborhood Investment and Infrastructure
 - HA: Housing Availability
 
-## 📈 Key Findings (Stretch Goal)
-
-**Comparing 2016-2022 vs 2022-2026:**
-
-| Metric | Change | Interpretation |
-|--------|--------|----------------|
-| Application Volume | **-39.5%** | Fewer but more focused applications |
-| Average Score | **+1.55 pts** | Higher quality applications |
-| Average Request | **+38.1%** | Larger, more ambitious projects |
-| ANGHP Priority | **+14.8%** | Increased focus on homelessness |
-
-## 🛠️ Technical Details
+## Technical Details
 
 ### Data Cleaning Features
 
@@ -148,124 +140,8 @@ Priority Distribution:
 - **Category Standardization**: Normalizes application types and priorities
 - **Missing Data Preservation**: Maintains data integrity with NaN values
 
-### Code Quality
-
-- ✅ Comprehensive English documentation
-- ✅ Modular design with reusable functions
-- ✅ Robust error handling
-- ✅ Automatic file path detection
-- ✅ Clear variable naming
-- ✅ PEP 8 compliant
-
-### Example: Intelligent Column Detection
-
-```python
-col_idx = {
-    "Type": next((i for i, c in enumerate(cols) 
-                  if "type" in str(c).lower()), 1),
-    "Priority": next((i for i, c in enumerate(cols) 
-                      if "priority" in str(c).lower()), 2),
-    # Adapts to different column names across years
-}
-```
-
-## 📝 Missing Data Strategy
-
-**Philosophy**: Preserve all NaN values for transparency
-
-- **Funding_Award NaN**: Application not yet awarded
-- **Total_Score NaN**: Application not yet scored
-- **Score Breakdown NaN**: Format change in 2025-26 data
-
-**Why This Matters**:
-- Maintains data integrity
-- Shows true state of data
-- Pandas/Matplotlib automatically handle NaN correctly
-- No artificial patterns introduced
-
-See `MISSING_DATA_GUIDE.md` for detailed documentation.
-
-## 🎨 Visualization Best Practices
-
-All visualizations follow professional standards:
-
-- **High Resolution**: 300 DPI for publication quality
-- **Clear Labels**: All axes, titles, and legends properly labeled
-- **Category Separation**: Social Services vs Construction/Development
-- **Color Coding**: Consistent color scheme across all charts
-- **Appropriate Chart Types**: Box plots for distributions, bar charts for comparisons, etc.
-
-## 🔄 Reproducibility
-
-To reproduce the analysis:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/zongyang078/Survey-Analysis-and-Data-Formatting.git
-   cd Survey-Analysis-and-Data-Formatting
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Ensure data files are in correct location**
-   ```bash
-   # Data files should be in ./data/ directory
-   ls data/
-   # Should show: 2022-2026_Case_Data.xlsx, 2016-2022_Case_Data.xlsx
-   ```
-
-4. **Run the analysis**
-   ```bash
-   python hw3_data_cleaning.py
-   python hw3_visualizations.py
-   ```
-
-## 📚 Requirements Analysis
-
-This project fulfills all requirements from the Portland Community Needs brief:
-
-| Requirement | Status | Evidence |
-|-------------|--------|----------|
-| Applications per year | ✅ | Figure 1 |
-| Score spread per year | ✅ | Figure 2 |
-| Applications per organization | ✅ | Figure 3 |
-| Funding requests + scoring breakdown | ✅ | Figure 4 |
-| Priority categories | ✅ | Figure 5 |
-| Category separation (SS vs CON) | ✅ | All figures |
-| Easy to understand | ✅ | Professional charts |
-| **Stretch Goal: 10-year comparison** | ✅ | Additional figures |
-
-## 🤝 Contributing
-
-This project was developed as part of a data analysis course. For questions or suggestions:
-
-- Open an issue
-- Submit a pull request
-- Contact: [Your Email]
-
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
-
-- **Portland Community Needs** - For providing the dataset and project requirements
-- **Rowen McAllister** - City of Portland Housing and Economic Development Department
-- **Course Instructors** - For project guidance and feedback
-
-## 📞 Contact
-
-**Author**: Zongyang Li  
-**GitHub**: [@zongyang078](https://github.com/zongyang078)  
-**Project Link**: [Survey-Analysis-and-Data-Formatting](https://github.com/zongyang078/Survey-Analysis-and-Data-Formatting)
-
----
-
 **Note**: This project analyzes real CDBG grant data from the City of Portland. All data is used for educational purposes in accordance with public record access policies.
-
-**Last Updated**: February 2, 2026  
-**Version**: 1.0.0  
-**Status**: ✅ Complete
