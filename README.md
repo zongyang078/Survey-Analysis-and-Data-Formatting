@@ -34,17 +34,14 @@ Survey-Analysis-and-Data-Formatting/
 ├── output/
 │   ├── cleaned_data_2022_2026.csv          # Cleaned dataset (primary)
 │   └── cleaned_data_2016_2022.csv          # Cleaned data (stretch goal)
-├── figures/
-│   ├── 1_applications_per_year.png       # Application trends
-│   ├── 2_score_spread.png                # Score distributions
-│   ├── 3_organizations.png               # Top organizations
-│   ├── 4_funding_and_scoring.png         # Funding + scoring breakdown
-│   └── 5_priority_categories.png         # Priority analysis
+├── report_assets/
+│   ├── charts/       
+│   └── tables/         
 ├── figures_stretch_goal/
 │   ├── stretch_10year_overview.png       # 10-year trends
 │   └── stretch_period_comparison.png     # Period comparison
 ├── hw3_data_cleaning.py                  # Main cleaning script
-├── hw3_visualizations.py                 # Visualization script
+├── hw3_final_analysis.py                 # Visualization script
 ├── hw3_stretch_goal_cleaning.py          # Historical data cleaning
 ├── hw3_stretch_goal_viz.py               # 10-year comparison viz
 └── README.md
@@ -65,7 +62,7 @@ pip install pandas numpy matplotlib seaborn openpyxl
 python hw3_data_cleaning.py
 
 # 2. Generate visualizations
-python hw3_visualizations.py
+python hw3_final_analysis.py
 
 # 3. (Optional) Stretch Goal - 10-year comparison
 python hw3_stretch_goal_cleaning.py
